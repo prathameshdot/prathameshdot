@@ -1,57 +1,142 @@
 <div align="center">
-  <h1>👋 Hi, I'm Prathamesh!</h1>
-  <p>
-    <a href="https://github.com/prathameshdot">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I+am+a+Software+Developer;I+love+coding;Let's+connect!&font=Fira+Code&center=true&width=600&height=100&color=F7F7F7&vCenter=true&size=45" /></a>
-  </p>
+
+# 👋 Hi, I'm Prathamesh Raut
+
+### 🚀 Full Stack & Flutter Developer
+
+Building scalable **mobile & web applications** using modern technologies.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Engineer;Node.js+%7C+React+Developer;Building+Scalable+Apps;Always+Learning+New+Tech" />
+
 </div>
-
-## 🛠 Tech Stack
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-
-## 🚀 Projects
-
-| Project Name  | Description  | Live Link  |
-| -------------- | ------------ | ------------ |
-| Project 1     | Description of Project 1 | [Live Link](https://example.com) |
-| Project 2     | Description of Project 2 | [Live Link](https://example.com) |
-
-## 📊 GitHub Stats
-
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshdot&show_icons=true&theme=radical)
- 
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-XYZ University, 2022  
-
-## 🎓 Certifications
-
-- [Certified Java Developer](https://example.com)
-- [AWS Certified Solutions Architect](https://example.com)
-
-## 🏆 Leadership Roles
-
-- **President**, Coding Club  
-  XYZ University, 2021-2022
-
-## 🎉 Fun Zones
-
-- Gaming  
-- Traveling  
-- Reading  
-
-## 📫 Contact Information
-
-- Email: [prathamesh@example.com](mailto:prathamesh@example.com)
-- LinkedIn: [linkedin.com/in/prathamesh](https://www.linkedin.com/in/prathamesh)
 
 ---
 
-### Thank you for visiting my profile!
+# 🚀 About Me
+
+💻 Full Stack Developer from **Satara, India**
+
+* 📱 Mobile Apps using **Flutter**
+* 🌐 Web Apps using **React & Node.js**
+* 🧠 Interested in **AI & scalable architectures**
+* ⚡ Love building **real world software products**
+
+```
+while(alive){
+   eat();
+   sleep();
+   code();
+   repeat();
+}
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+JavaScript • Java • Python • C#
+
+### Frontend
+
+React • Tailwind CSS • Bootstrap
+
+### Mobile
+
+Flutter • Dart
+
+### Backend
+
+Node.js • Express
+
+### Database
+
+MongoDB • MySQL • Firebase
+
+### Tools
+
+Git • GitHub • VS Code • Docker
+
+---
+
+# 🚀 Featured Projects
+
+### 🚗 Jivhala Motors
+
+Vehicle dealership management system
+
+**Tech**
+Flutter • Node.js • MongoDB
+
+Features
+
+* Vehicle entry management
+* Buyer details tracking
+* PDF reports
+* Dashboard analytics
+
+---
+
+### 💼 BizPlus CRM
+
+CRM platform for client & business management
+
+Tech
+React • Node.js • MongoDB
+
+---
+
+### 🌐 Bizon Digital
+
+Business automation and digital services platform
+
+Tech
+React • Express • MongoDB
+
+---
+
+### 🛒 Flutter E-Commerce UI
+
+Complete mobile UI kit for shopping apps
+
+Tech
+Flutter • Dart
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathameshdot&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdot&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshdot&theme=tokyo-night" />
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/prathameshdot/prathameshdot/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:111975prathamesh@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/prathamesh-prashant-raut-77085b227">LinkedIn</a> • <a href="https://leetcode.com/u/prathamesh1200/">LeetCode</a> • <a href="https://codechef.com/users/prathamesh1200">CodeChef</a>
+
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
