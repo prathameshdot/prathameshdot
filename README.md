@@ -223,11 +223,13 @@ val prathamesh = Developer(
   <tr>
     <td valign="top" width="50%">
       <h3>🏢 BizPlus CRM & ERP</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+      <a href="PLAY_STORE_URL_BIZPLUS">
+        <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
       </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
+      <a href="PROJECT_LINK_BIZPLUS">
+        <img src="https://img.shields.io/badge/Link-24243e?style=for-the-badge&logo=linktree&logoColor=white"/>
+      </a>
       <br/><br/>
       End-to-end enterprise CRM/ERP Android app with lead management, sales pipeline, inventory control, invoicing & multi-team collaboration.<br/><br/>
       <strong>Highlights:</strong><br/>
@@ -243,12 +245,12 @@ val prathamesh = Developer(
     </td>
     <td valign="top" width="50%">
       <h3>🚖 Travel Desk Solutions</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/Passenger_App-181717?style=for-the-badge&logo=github"/>
+      <a href="PLAY_STORE_URL_TRAVELDESK_PASSENGER">
+        <img src="https://img.shields.io/badge/Passenger_App-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
       </a>
       &nbsp;
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/Driver_App-181717?style=for-the-badge&logo=github"/>
+      <a href="PLAY_STORE_URL_TRAVELDESK_DRIVER">
+        <img src="https://img.shields.io/badge/Driver_App-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
       </a>
       <br/><br/>
       Dual Android apps: passenger app for trip booking & live GPS tracking; driver app for ride management, turn-by-turn navigation & earnings.<br/><br/>
@@ -267,11 +269,13 @@ val prathamesh = Developer(
   <tr>
     <td valign="top" width="50%">
       <h3>🏠 Denner.in – Flat & Flatmates</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+      <a href="PLAY_STORE_URL_DENNER">
+        <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
       </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
+      <a href="PROJECT_LINK_DENNER">
+        <img src="https://img.shields.io/badge/Link-24243e?style=for-the-badge&logo=linktree&logoColor=white"/>
+      </a>
       <br/><br/>
       Full-featured property rental app with listing creation, image upload, filter-based search, saved listings & real-time in-app chat.<br/><br/>
       <strong>Highlights:</strong><br/>
@@ -287,11 +291,13 @@ val prathamesh = Developer(
     </td>
     <td valign="top" width="50%">
       <h3>👗 Jasmine by Seba – Fashion E-Commerce</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+      <a href="PLAY_STORE_URL_JASMINE">
+        <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
       </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/>
+      <a href="PROJECT_LINK_JASMINE">
+        <img src="https://img.shields.io/badge/Link-24243e?style=for-the-badge&logo=linktree&logoColor=white"/>
+      </a>
       <br/><br/>
       Lifestyle e-commerce app with dynamic product catalog, wishlist, cart, order placement, order tracking & admin CMS integration.<br/><br/>
       <strong>Highlights:</strong><br/>
@@ -308,8 +314,8 @@ val prathamesh = Developer(
   <tr>
     <td valign="top" width="50%">
       <h3>🛒 Manihari Mart – Hyperlocal Retail</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+      <a href="PROJECT_LINK_MANIHARI">
+        <img src="https://img.shields.io/badge/Link-24243e?style=for-the-badge&logo=linktree&logoColor=white"/>
       </a>
       <br/><br/>
       Multi-category retail app with product browsing (category/price filters), cart, order placement & local delivery tracking.<br/><br/>
@@ -325,8 +331,8 @@ val prathamesh = Developer(
     </td>
     <td valign="top" width="50%">
       <h3>🛍️ OUI & Kiosk – Mall E-Commerce & AR Try-On</h3>
-      <a href="https://github.com/prathameshdot">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+      <a href="PROJECT_LINK_OUI">
+        <img src="https://img.shields.io/badge/Link-24243e?style=for-the-badge&logo=linktree&logoColor=white"/>
       </a>
       <br/><br/>
       Kiosk-mode Android e-commerce app with AR-based virtual try-on, Stripe payment gateway & touch-first UX design.<br/><br/>
@@ -355,9 +361,9 @@ val prathamesh = Developer(
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshdot&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=7F52FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathameshdot&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=7F52FF&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdot&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdot&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -366,6 +372,30 @@ val prathamesh = Developer(
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshdot&theme=tokyo-night&bg_color=0d1117&color=6EE7F7&line=7F52FF&point=6EE7F7&area=true&hide_border=true&radius=12" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| Portfolio Metric | Value |
+|:---|:---:|
+| Production apps shipped | 12+ |
+| Active users served | 1,000+ |
+| APIs integrated | 20+ |
+| Critical crashes | Zero |
+| Platforms released on | Play Store + App Store |
 
 </div>
 
@@ -426,9 +456,9 @@ val prathamesh = Developer(
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshdot/prathameshdot/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshdot/prathameshdot/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/prathameshdot/prathameshdot/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg"/>
+    <img alt="Contribution Snake" src="github-user-contribution.svg"/>
   </picture>
 </div>
 
