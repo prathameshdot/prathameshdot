@@ -361,9 +361,28 @@ val prathamesh = Developer(
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshdot&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=7F52FF&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdot&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>GitHub Snapshot</h3>
+      <p><strong>12+</strong> apps shipped</p>
+      <p><strong>1,000+</strong> active users served</p>
+      <p><strong>20+</strong> APIs integrated</p>
+      <p><strong>Zero</strong> critical post-release crashes</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Primary Languages</h3>
+      <p>Kotlin • Java • Dart • JavaScript • Python • C#</p>
+      <p>Flutter • Jetpack Compose • Firebase • Supabase</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,java,dart,js,python,cs&theme=dark" alt="Primary languages logos" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase&theme=dark" alt="Platform logos" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
