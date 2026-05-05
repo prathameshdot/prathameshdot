@@ -126,6 +126,12 @@ Add screenshots or short GIFs of your apps here. Replace the placeholder paths w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshdot&theme=tokyo-night" alt="Activity graph"/>
 </p>
 
+## 🐍 Contribution Snake
+
+This is the contribution-snake SVG used on the profile. If it doesn't appear on GitHub, ensure `output/github-contribution-grid-snake.svg` exists in the repo (I've added a placeholder).
+
+![Contribution Snake](github-user-contribution.svg)
+
 ---
 
 ## 🛣️ Roadmap
